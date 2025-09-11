@@ -1,7 +1,11 @@
 # ETL de Indicadores Econômicos do Banco Central
 
-![Python](https://img.shields.io/badge/python-3.11-blue.svg)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.11-blue.svg?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-1.5.3-150458.svg?logo=pandas&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-2.31.0-3776AB.svg?logo=python&logoColor=white)
+![Schedule](https://img.shields.io/badge/Schedule-1.2.0-lightgrey.svg?logo=clockify&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-24.0-0db7ed.svg?logo=docker&logoColor=white)
+
 
 **Status:** Projeto Concluído ✅
 
