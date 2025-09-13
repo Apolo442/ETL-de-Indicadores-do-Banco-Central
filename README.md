@@ -7,8 +7,6 @@
 ![Docker](https://img.shields.io/badge/Docker-24.0-0db7ed.svg?logo=docker&logoColor=white)
 
 
-**Status:** Projeto Concluído ✅
-
 Este projeto implementa um pipeline de ETL (Extração, Transformação e Carga) para coletar diariamente indicadores econômicos da API de Dados Abertos do Banco Central do Brasil (BCB). A aplicação é containerizada com Docker para garantir portabilidade e consistência na execução.
 
 ## 📜 Funcionalidades
