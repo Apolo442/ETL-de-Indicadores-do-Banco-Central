@@ -32,8 +32,8 @@ Para executar este projeto, você precisará ter o Git e o Docker Desktop instal
 
 **1. Clone o repositório:**
 ```
-git clone URL_DO_SEU_REPOSITORIO.git
-cd nome-do-repositorio
+git clone https://github.com/Apolo442/ETL-de-Indicadores-do-Banco-Central.git
+cd https://github.com/Apolo442/ETL-de-Indicadores-do-Banco-Central.git
 ```
 
 **2. Construa a imagem Docker:**
