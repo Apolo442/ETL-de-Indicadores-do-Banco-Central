@@ -1,0 +1,7 @@
+# Ignora pastas de ambiente virtual e bibliotecas
+venv/* linguist-vendored
+env/* linguist-vendored
+
+# Ignora arquivos de dados ou documentação que pesam como Python
+*.csv linguist-documentation
+*.json linguist-documentation
